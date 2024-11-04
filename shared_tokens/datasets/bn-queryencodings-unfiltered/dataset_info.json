@@ -1,0 +1,19 @@
+{
+  "citation": "",
+  "description": "dataset load script for MIRACL",
+  "features": {
+    "text_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "https://project-miracl.github.io",
+  "license": ""
+}

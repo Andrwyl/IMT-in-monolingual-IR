@@ -1,0 +1,35 @@
+{
+  "citation": "@misc{bajaj2018ms,\n      title={MS MARCO: A Human Generated MAchine Reading COmprehension Dataset}, \n      author={Payal Bajaj and Daniel Campos and Nick Craswell and Li Deng and Jianfeng Gao and Xiaodong Liu \n      and Rangan Majumder and Andrew McNamara and Bhaskar Mitra and Tri Nguyen and Mir Rosenberg and Xia Song\n       and Alina Stoica and Saurabh Tiwary and Tong Wang},\n      year={2018},\n      eprint={1611.09268},\n      archivePrefix={arXiv},\n      primaryClass={cs.CL}\n}",
+  "description": "dataset load script for MSMARCO Passage",
+  "features": {
+    "query": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "positives": {
+      "feature": {
+        "feature": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "_type": "Sequence"
+    },
+    "negatives": {
+      "feature": {
+        "feature": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
