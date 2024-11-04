@@ -2,10 +2,6 @@
 
 Below are descriptions of the four python scripts used for filtering. The end of the markdown contains an example workflow
 
-## If this is your first time running
-
-Run `shared_tokens/datasets/download_datasets.py` first in order to save all the datasets locally, allowing us to load it in and filter in the following scripts. This only needs to be done once (you will know it is good to go if `shared_tokens/datasets/` has the dataset folders in it)
-
 ## 1. get_overlapping.py 
 
 ```
