@@ -1,6 +1,6 @@
 # The Impact of Incidental Multilingual Text on Cross-Lingual Transferring in Monolingual Retrieval
 
-This repository provides the code for our paper <em>The Impact of Incidental Multilingual Text on Cross-Lingual Transferring in Monolingual Retrieval</em> in review at ECIR 2025
+This repository provides the code for our paper <em>The Impact of Incidental Multilingual Text on Cross-Lingual Transferring in Monolingual Retrieval</em> published at ECIR 2025
 
 <strong>Links</strong>:
 
