@@ -1,19 +1,3 @@
-{
-  "citation": "",
-  "description": "dataset load script for MIRACL",
-  "features": {
-    "text_id": {
-      "dtype": "string",
-      "_type": "Value"
-    },
-    "text": {
-      "feature": {
-        "dtype": "int64",
-        "_type": "Value"
-      },
-      "_type": "Sequence"
-    }
-  },
-  "homepage": "https://project-miracl.github.io",
-  "license": ""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cf8681628f089571a06002a4e79e8abcd3e603d1e17fb0cd5daf4eee8bb1c90
+size 356
