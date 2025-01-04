@@ -12,7 +12,17 @@ While great progress has been made in non-English monolingual passage retrieval 
 
 ## Installation
 
-To do
+1. Install PyTorch based on your CUDA version
+2. Install dependencies and Tevatron (cd to the `tevatron` subdirectory)
+
+```bash
+pip install transformers datasets peft
+pip install deepspeed accelerate
+pip install faiss
+cd tevatron
+pip install -e .
+```
+All the scripts in `shared_tokens` should be good to run now, as all they need is tevatron installed
 
 ## Filtering datasets
 
