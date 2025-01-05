@@ -22,6 +22,11 @@ pip install faiss
 cd tevatron
 pip install -e .
 ```
+
+3. In order to faciliate the scoring of the ranks, Pyserini is required as well.
+
+`pip install pyserini`
+
 All the scripts in `shared_tokens` should be good to run now, as all they need is tevatron installed
 
 ## Filtering datasets
