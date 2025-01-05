@@ -23,7 +23,7 @@ cd tevatron
 pip install -e .
 ```
 
-3. In order to faciliate the scoring of the ranks, Pyserini is required as well.
+3. In order to faciliate the scoring of the ranks, [Pyserini](https://github.com/castorini/pyserini/tree/master) is required as well.
 
 `pip install pyserini`
 
