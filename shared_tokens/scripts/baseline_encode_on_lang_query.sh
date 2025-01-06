@@ -11,7 +11,7 @@ encoding_lang="$2"
 
 torchrun --nproc_per_node 1 ../../tevatron/src/tevatron/driver/encode.py \
   --output_dir=temp_out \
-  --model_name_or_path ${shared_token_dir}/results/baselines/model/${model_lang} \
+  --model_name_or_path ${shared_token_dir}/results/baselines/models/${model_lang} \
   --per_device_eval_batch_size 156 \
   --dataset_name miracl/miracl:${encoding_lang}/dev \
   --encode_is_qry \
