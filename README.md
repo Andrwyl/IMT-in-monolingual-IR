@@ -4,7 +4,7 @@ This repository provides the code for our paper <em>The Impact of Incidental Mul
 
 <strong>Links</strong>:
 
-TODO
+[Paper](https://cs.uwaterloo.ca/~jimmylin/publications/Liu_etal_ECIR2025.pdf)
 
 <strong>Abstract</strong>:
 
